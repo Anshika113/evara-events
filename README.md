@@ -175,4 +175,4 @@ npx wrangler d1 execute evara-events --remote \
 - React 18 + React Router 6 (with a dynamic `/services/:slug` route), Vite 5
 - Cloudflare Workers + D1; no server to run, no Python host required
 - D1 is SQLite-compatible, so `schema.sql` matches the original `backend/leads.db`
-- No paid services required to run or deploy (Workers and D1 free tiers)
+- No paid services required to run or deploy (Workers and D1 free tiers) 
